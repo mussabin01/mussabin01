@@ -1,0 +1,2 @@
+- Hi, I’m Mussa
+- I’m looking to share ideas about programming
